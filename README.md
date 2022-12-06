@@ -1,4 +1,4 @@
-# Cycles
+# Cycle
 
 By Helaman Chan 
 
@@ -34,7 +34,7 @@ Alternatively, you can use Visual Studio Code and start the game by running the 
 
 ```
 root                    
-+-- cycles                
++-- cycle                
   +-- game              
   +-- __main__.py       
 +-- README.md          
